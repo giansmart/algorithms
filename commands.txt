@@ -1,0 +1,8 @@
+create a virtual environment
+python3.10 -m venv alg-venv
+
+activate v. environment 
+source venv/bin/activate
+
+install kernel for jupyter
+pip install ipykernel
