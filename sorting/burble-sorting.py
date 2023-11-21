@@ -22,6 +22,6 @@ def burble_sort(numbers: list): # sort in ascend manner
     return numbers_sort
     
 
-arr = [6, 10, -1, 0, 20]
+arr = [30]
 
 print(burble_sort(arr))
