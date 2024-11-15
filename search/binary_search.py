@@ -15,5 +15,5 @@ def binary_search(arr, num_search):
             right_idx = pointer_idx - 1
     return found
 
-arr = [0, 5, 7, 9, 15, 16]
-print(binary_search(arr, 30))
+print(binary_search([23], 30))
+print(binary_search([23], 23))
